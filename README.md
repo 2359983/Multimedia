@@ -16,4 +16,4 @@ On a débuter le cours d'animation sur krita.
 Je n'étais pas présente.
 
 ## Cours 7: mercredi le 07 octobre,
-Je commence le EVS2.
+Je commence le EVS2 et je fais la remise.
