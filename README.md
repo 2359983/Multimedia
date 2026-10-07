@@ -13,7 +13,7 @@ Au début du cours, on a fait la remise du EVS1.
 On a débuter le cours d'animation sur krita.
 
 ## Cours 6: mercredi le 30 septembre,
-Je n'étais pas présente,
+Je n'étais pas présente.
 
 ## Cours 7: mercredi le 07 octobre,
 Je commence le EVS2.
