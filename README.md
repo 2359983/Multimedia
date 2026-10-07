@@ -7,4 +7,13 @@ j'ai choisi de prendre une image d'une assiette vide et de transformer cette ass
 <img width="2565" height="1457" alt="image" src="https://github.com/user-attachments/assets/1a977c86-4abb-421b-8842-39beb56fd748" />
 
 ## Cours 4: mercredi le 16 septembre,
-Au début du cours, on a fait la remise du EVS1
+Au début du cours, on a fait la remise du EVS1.
+
+## Cours 5: 
+On a débuter le cours d'animation sur krita.
+
+## Cours 6 :
+Je n'étais pas présente,
+
+## Cours 7:
+Je commence le EVS2.
