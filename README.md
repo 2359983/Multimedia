@@ -9,11 +9,11 @@ j'ai choisi de prendre une image d'une assiette vide et de transformer cette ass
 ## Cours 4: mercredi le 16 septembre,
 Au début du cours, on a fait la remise du EVS1.
 
-## Cours 5: 
+## Cours 5: mercredi le 23 septembre,
 On a débuter le cours d'animation sur krita.
 
-## Cours 6 :
+## Cours 6: mercredi le 30 septembre,
 Je n'étais pas présente,
 
-## Cours 7:
+## Cours 7: mercredi le 07 octobre,
 Je commence le EVS2.
