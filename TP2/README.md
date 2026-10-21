@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/b55deea3-5e53-4158-9c46-88e358a4ead2
-
 # Animation TP1 remise
 ## remise de l'image original
 Lien de l'image de base pour créer un lapin qui trouve et mange sa carotte en mouvement.
