@@ -16,7 +16,7 @@ Durant ce cours, nous avons commencer à explorer l'animation avec le logiciel K
 Je n'étais pas présente durant ce cours.
 
 ## Cours 7: mercredi le 07 octobre,
-Durant ce cours, j'ai commencé on TP2. J'ai travaillé sur une animation ; image par image
+Durant ce cours, j'ai commencé on TP2. J'ai travaillé sur une animation d'une lapin qui saute ; image par image.
 ## Animation
 <img width="720" height="720" alt="lapin_animation" src="https://github.com/user-attachments/assets/dab2dade-096e-49bd-b743-ea888b8f91c9" />
 
@@ -26,7 +26,7 @@ Lien de l'image de base pour créer l'éxercices d'un lapin en mouvement.
 J'ai utilisé 12 images que jai sélectionner et insérer dans un calque de 720 sur 720 sur le logiciel krita en formant une animation.
 
 ## Cours 8: mercredi 21 octobre,
-Finalisation du Travaux Pratique 2 , qui explore l'animation sur Krita
+Durant ce cours, j'ai travaillé sur la finalisation de mon Travail Pratique 2 (TP2) , qui portait sur l'animation avec Krita. J'ai poursuivi l'enchaînement des différentes étapes afin que les mouvements soit cohérents et que l'histoire soit facile à comprendre. Ce travail m'a permis de mettre en pratique les notions d'animation apprises lors des cours précédents et de me familiariser avec le logiciel Krita.
 
 ## Cours 9 : mercredi 28 octobre,
 Remise du Travaux Pratique 2 
