@@ -1,6 +1,6 @@
 # Animation TP2 remise
 ## remise de l'image original
-Lien de l'image de base: Image utilisé comme point de départ pour créer une animation image par image en mettant en scène un lapin en mouvement.
+Lien de l'image de base: Image utilisé comme point de départ pour créer une animation image par image en mettant en scène un lapin en mouvement. Les différentes images permettent de représenter progressivement ses mouvements et de donner vie a cette histoire.
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c4006181-91bf-406d-babc-bd9c49bfa0fb" />
 
 ## Animation Final
