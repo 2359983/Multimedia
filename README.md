@@ -29,4 +29,5 @@ J'ai utilisé 12 images que jai sélectionner et insérer dans un calque de 720 
 Finalisation du Travaux Pratique 2 , qui explore l'animation sur Krita
 
 ## Cours 9 : mercredi 28 octobre,
-Remise du Travaux Pratique 2
+Remise du Travaux Pratique 2 
+https://github.com/user-attachments/assets/19816ee6-8bb1-4052-87c8-1c1b92e212a1
