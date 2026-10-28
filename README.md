@@ -22,8 +22,8 @@ Durant ce cours, j'ai commencé on TP2. J'ai travaillé sur une animation d'une 
 
 ## explication
 Lien de l'image de base pour créer l'éxercices d'un lapin en mouvement.
-<img width="1086" height="1448" alt="Image" src="https://github.com/user-attachments/assets/1a1f60a2-0f7f-4d03-94ca-23ffd5cad9b5" />
 J'ai utilisé 12 images que jai sélectionner et insérer dans un calque de 720 sur 720 sur le logiciel krita en formant une animation.
+<img width="1086" height="1448" alt="Image" src="https://github.com/user-attachments/assets/1a1f60a2-0f7f-4d03-94ca-23ffd5cad9b5" />
 
 ## Cours 8: mercredi 21 octobre,
 Durant ce cours, j'ai travaillé sur la finalisation de mon Travail Pratique 2 (TP2) , qui portait sur l'animation avec Krita. J'ai poursuivi l'enchaînement des différentes étapes afin que les mouvements soit cohérents et que l'histoire soit facile à comprendre. Ce travail m'a permis de mettre en pratique les notions d'animation apprises lors des cours précédents et de me familiariser avec le logiciel Krita.
