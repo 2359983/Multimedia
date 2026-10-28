@@ -30,4 +30,5 @@ Finalisation du Travaux Pratique 2 , qui explore l'animation sur Krita
 
 ## Cours 9 : mercredi 28 octobre,
 Remise du Travaux Pratique 2 
-https://github.com/user-attachments/assets/19816ee6-8bb1-4052-87c8-1c1b92e212a1
+https://github.com/user-attachments/assets/75674943-ab01-4fa3-a812-8fef99d83da0
+
