@@ -25,4 +25,8 @@ Lien de l'image de base pour créer l'éxercices d'un lapin en mouvement.
 <img width="1086" height="1448" alt="Image" src="https://github.com/user-attachments/assets/1a1f60a2-0f7f-4d03-94ca-23ffd5cad9b5" />
 J'ai utilisé 12 images que jai sélectionner et insérer dans un calque de 720 sur 720 sur le logiciel krita en formant une animation.
 
+## Cours 8: mercredi 21 octobre,
+Finalisation du Travaux Pratique 2 , qui explore l'animation sur Krita
 
+## Cours 9 : mercredi 28 octobre,
+Remise du Travaux Pratique 2
