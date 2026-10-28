@@ -29,7 +29,7 @@ J'ai utilisé 12 images que jai sélectionner et insérer dans un calque de 720 
 Durant ce cours, j'ai travaillé sur la finalisation de mon Travail Pratique 2 (TP2) , qui portait sur l'animation avec Krita. J'ai poursuivi l'enchaînement des différentes étapes afin que les mouvements soit cohérents et que l'histoire soit facile à comprendre. Ce travail m'a permis de mettre en pratique les notions d'animation apprises lors des cours précédents et de me familiariser avec le logiciel Krita.
 
 ## Cours 9 : mercredi 28 octobre,
-Remise du Travaux Pratique 2 
+Durant ce cours, j'ai effectué la Remise de mon Travail Pratique 2 (TP2). Pour réaliser le projet, j'ai utilisé plusieurs images afin de construire une animation image par image dans Krita. 
 ## les images qui on permis la réalisation de l'animation du TP2
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c4006181-91bf-406d-babc-bd9c49bfa0fb" />
 
