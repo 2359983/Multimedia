@@ -37,4 +37,4 @@ Durant ce cours, j'ai effectué la Remise de mon Travail Pratique 2 (TP2). Pour 
 Je n'étais pas présente durant ce cours.
 
 ## Cours 11: mercredi 11 novembre,
-Durant ce cours, j'ai explorer divers explication et exercices sur le sons.
+Durant ce cours, j'ai explorer divers explication et exercices sur le sons. J'ai choisi mon image https://pixabay.com/fr/photos/jungle-nature-perroquet-animal-ara-10163636/
