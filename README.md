@@ -33,4 +33,8 @@ Durant ce cours, j'ai effectué la Remise de mon Travail Pratique 2 (TP2). Pour 
 ## les images qui on permis la réalisation de l'animation du TP2
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c4006181-91bf-406d-babc-bd9c49bfa0fb" />
 
+## Cours 10: mercredi 04 novembre,
+Je n'étais pas présente durant ce cours.
 
+## Cours 11: mercredi 11 novembre,
+Durant ce cours, j'ai explorer divers explication et exercices sur le sons.
