@@ -38,3 +38,6 @@ Je n'étais pas présente durant ce cours.
 
 ## Cours 11: mercredi 11 novembre,
 Durant ce cours, j'ai exploré différentes notions et réalisé des exercices portant sur le son. J'ai appris à intégrer du son à une image afin de créer une ambiance et de rendre le résultat plus intéressant. Pour cet exercice, j'ai choisi une image dans une jungle. J'ai ensuite exploré les possibilités d'ajouter des sons qui correspondent à l'environnement de l'image, comme des bruits d'oiseaux et de la nature. Cet exercice m'a permis de découvrir une autre façon de rendre une image plus vivante en utilisant le son. J'ai choisi mon image https://pixabay.com/fr/photos/jungle-nature-perroquet-animal-ara-10163636/
+
+## Cours 12: mercredi 18 novembre,
+Durant ce cours, j'ai effectué la remise de mon Travail pratique 3 (TP3), que j'avais réalisé la semaine précédente. Ce travail portait sur l'intégration du son à une image. J'ai pu mettre en pratique les notions vues lors du cours précédent et découvrir comment le son peut être utilisé pour rendre une création plus vivante et intéressante.
