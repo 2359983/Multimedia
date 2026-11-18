@@ -37,4 +37,4 @@ Durant ce cours, j'ai effectué la Remise de mon Travail Pratique 2 (TP2). Pour 
 Je n'étais pas présente durant ce cours.
 
 ## Cours 11: mercredi 11 novembre,
-Durant ce cours, j'ai explorer divers explication et exercices sur le sons. J'ai choisi mon image https://pixabay.com/fr/photos/jungle-nature-perroquet-animal-ara-10163636/
+Durant ce cours, j'ai exploré différentes notions et réalisé des exercices portant sur le son. J'ai appris à intégrer du son à une image afin de créer une ambiance et de rendre le résultat plus intéressant. Pour cet exercice, j'ai choisi une image dans une jungle. J'ai ensuite exploré les possibilités d'ajouter des sons qui correspondent à l'environnement de l'image, comme des bruits d'oiseaux et de la nature. Cet exercice m'a permis de découvrir une autre façon de rendre une image plus vivante en utilisant le son. J'ai choisi mon image https://pixabay.com/fr/photos/jungle-nature-perroquet-animal-ara-10163636/
